@@ -1,0 +1,46 @@
+[
+    {
+        "Description": "Download location of Web Deploy 3.6 x64",
+        "DefaultValue": "https://download.microsoft.com/download/0/1/D/01DC28EA-638C-4A22-A57B-4CEF97755C6C/WebDeploy_amd64_en-US.msi"    
+    },
+    {
+        "Description": "Download location of URL Rewrite 2.1 x64",
+        "DefaultValue": "https://download.microsoft.com/download/1/2/8/128E2E22-C1B9-44A4-BE2A-5859ED1D4592/rewrite_amd64_en-US.msi"
+    },
+    {
+        "Description": "Download location of SQL CLR Types x64 from SQL Server 2016 Feature Pack. It is needed for installing SQL Shared Management Objects 2016",
+        "DefaultValue": "https://download.microsoft.com/download/d/0/1/d01f1ef0-26d8-45fa-a4ea-12d53f0e3438/x64/SQLSysClrTypes.msi"        
+    },
+    {
+        "Description": "Download location of SQL Shared Management Objects x64 from SQL Server 2016 Feature Pack",
+        "DefaultValue": "https://download.microsoft.com/download/d/0/1/d01f1ef0-26d8-45fa-a4ea-12d53f0e3438/x64/SharedManagementObjects.msi"        
+    },
+    {
+        "Description": "Download location of SQL CLR Types x64",
+        "DefaultValue": "https://download.microsoft.com/download/C/1/9/C1917410-8976-4AE0-98BF-1104349EA1E6/x64/SQLSysClrTypes.msi"
+    },
+    {
+        "Description": "Download location of SQL DAC Framework x64",
+        "DefaultValue": "https://download.microsoft.com/download/6/E/4/6E406E38-0A01-4DD1-B85E-6CA7CF79C8F7/EN/x64/DacFramework.msi"        
+    },
+    {
+        "Description": "Download location of Visual C++ 2015 x64",
+        "DefaultValue": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
+    },
+    {
+        "Description": "Download location of SQL ODBC Drivers 13.1",
+        "DefaultValue" : "https://download.microsoft.com/download/D/5/E/D5EEF288-A277-45C8-855B-8E2CB7E25B96/x64/msodbcsql.msi"
+    },
+    {
+        "Description": "Download location of .net framework",
+        "DefaultValue": "https://download.visualstudio.microsoft.com/download/pr/014120d7-d689-4305-befd-3cb711108212/0fd66638cde16859462a6243a4629a50/ndp48-x86-x64-allos-enu.exe"        
+    },
+    {
+        "Description": "Download location of .net 6.0.x Hosting Bundle",
+        "DefaultValue": "https://download.visualstudio.microsoft.com/download/pr/b50f2f63-23ed-4c96-9b38-71d319107d1b/26f8c79415eccaef1f2e0614e10cd701/dotnet-hosting-6.0.21-win.exe"
+    },
+    {
+        "Description": "Download location of Microsoft OpenJDK",
+        "DefaultValue": "https://aka.ms/download-jdk/microsoft-jdk-21.0.5-windows-x64.msi"
+    }
+]
